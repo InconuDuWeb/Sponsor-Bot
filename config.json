@@ -1,10 +1,10 @@
 ﻿{
-    "token": "MTIyNjkxNDY1MTkxMzA2NDUyOQ.GT-9ze.QaVRhAzKgVYs185a--rsXJ3AXlCTf9Ru5cSuQI",
+    "token": "TOKEN",
     "prefix": "!",
     "emoji": "<a:redfire:1198210860368273408>",
-    "wlrole": "1226915475410255902",
-    "helperRole": "1226915675671363675",
-    "category": "1226915267779760366",
+    "wlrole": "ID-ROLE",
+    "helperRole": "ID-ROLE",
+    "category": "ID-CATEGORY",
     "embedColor": "FF0000",
     "helpimg": "https://i.imgur.com/1VVAVo5.gif",
     "m_AlreadyPubing_title": ":x: Une publicité est déjà en cours dans ce salon",
@@ -18,5 +18,5 @@
     "m_pub_s1_stopped": ":x: Interruption de la publicité à votre demande",
     "m_pub_time_stop_title": ":x: Temps écoulé",
     "m_pub_time_stop_description": "Le delai imparti pour l'étape en cours est expiré",
-    "stream": "SponsorBotv14"
+    "stream": ".gg/SponsorBot"
 }
